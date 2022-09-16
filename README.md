@@ -1,4 +1,4 @@
-###     Olá, seja bem-vindo! 👋
+###     Olá, seja bem-vindo! 👋 <h2>
 
 - 👩‍💻 Atualmente estou em busca do meu primeiro emprego
 - 📝 Sou estudante em Análise e Desenvolvimento de Sistemas (04/2024)
