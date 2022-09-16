@@ -1,5 +1,4 @@
-###     Olá, seja bem-vindo! 👋 <h2>
-
+#### Olá, seja bem-vindo! 👋
 - 👩‍💻 Atualmente estou em busca do meu primeiro emprego
 - 📝 Sou estudante em Análise e Desenvolvimento de Sistemas (04/2024)
 - 🚀 Meu foco profissional é na área de QA 
